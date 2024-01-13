@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-    @apply test-seconadary font-primary text-[17px] leading-8;
+    @apply text-seconadary font-primary text-[17px] leading-8;
 }
 
 h1,h2,h3,h4,h5,h6{
